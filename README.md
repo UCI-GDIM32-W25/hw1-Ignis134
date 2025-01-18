@@ -17,7 +17,10 @@ Plant sprite:
 - Actions: appear at the player location when a seed is planted
 
 Object interactions:
-The player sprite directly has to interact with the UI elements to trigger updates whenever the player makes an action. That action being planting a seed which then changes the values. The player sprite affects the plant sprite by both creating it and also determining the location at which is spawns.   
+
+The player sprite directly has to interact with the UI elements to trigger updates whenever the player makes an action. That action being planting a seed which then changes the values. 
+
+The player sprite affects the plant sprite by both creating it and also determining the location at which is spawns.   
 
 
 ## Devlog
@@ -27,3 +30,8 @@ So based on the breakdown that I did for the homework activity, my plan for recr
 If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
 - [Brackeys' Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) - Character and item sprites
+
+## Prof comments
+Thank you for making the connection between your plan and the code that you implemented super clear.
+
+Please consider checking that the formatting in your Devlog turns out how you expected on the Github website. This will make it a lot easier for me to read. See the [README formatting guide here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
